@@ -1,4 +1,4 @@
-# Restaurant Operations Simulation (Arena - INE332 Project)
+# Restaurant Operations Simulation (Arena Simulation Software)
 
 This repository contains a discrete-event simulation model of a full-service restaurant developed using Arena Simulation Software as part of the INE332 Simulation Modeling course.
 
